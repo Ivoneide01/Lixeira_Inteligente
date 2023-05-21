@@ -106,7 +106,6 @@ Jumpers;
  ![descrição-img](/Docs/img/Jumpers.jpeg)
 
 
-
 Na lixeira eletrônica, os jumpers podem ser utilizados para realizar conexões entre os diferentes componentes do sistema, como o sensor de ultrassom, o micro servo motor, o Arduino Uno e outros dispositivos eletrônicos.
 
 Conexão entre o sensor de ultrassom e o Arduino Uno: Os jumpers podem ser usados para conectar os pinos de sinal do sensor de ultrassom às portas digitais do Arduino Uno. Isso permite que o Arduino leia os dados do sensor e tome decisões com base nessas informações.
