@@ -1,6 +1,4 @@
-9.       Deve ser inserido no relatório um link para um repositório em github.com (inserido na seção Resultados de seu artigo) contendo a documentação do projeto apresentado. O repositório deve conter:
-
-i)         Uma breve descrição do funcionamento e uso para quem quiser reproduzir.
+# Uma breve descrição do funcionamento e uso para quem quiser reproduzir.
 
 Primeiro iremos conectar o sensor na saída 5 do Arduino. Assim como na imagem1 abaixo:
 ![descrição-img](/Docs/img/img1.jpeg)
@@ -41,6 +39,8 @@ Na parte da tampa da lixeira, usamos um papelão para servir como tampa, pois no
 
 
 Depois de ter feito esse processo iremos subir o nosso código que está neste repositório do GitHub na parte README.
+
+#  software desenvolvido + A descrição do hardware
 
 Agora vamos conhecer um pouco de cada componente utilizado:
 
@@ -117,21 +117,9 @@ Conexões entre outros componentes: Dependendo do design e das funcionalidades d
 Alterações e ajustes: À medida que o projeto evolui, é possível que seja necessário modificar as conexões entre os componentes. Os jumpers permitem que você faça alterações facilmente, desconectando-os de um local e conectando-os em outro conforme necessário.
 
 
-iii)      A descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores, impressão 3D de peças, medidas de peças e caixas etc.)
 
 iv)      A documentação das interfaces, protocolos e módulos de comunicação.
 
 v)       O projeto deve possuir comunicação/controle via internet (TCP/IP) e uso do Protocolo MQTT.
 
-<<<<<<< HEAD:Docs/index.md
 
-# Diagrama de casos de uso
-
-*&lt;Diagrama de casos de uso&gt;*
-![descrição-dos-casos-de-uso](casosdeuso.jpeg)
-=======
-# Diagrama de casos de uso
-
-*&lt;Diagrama de casos de uso&gt;*
-![descrição-dos-casos-de-uso](casosdeuso.jpeg)
->>>>>>> 60c2f3b4e5cd42dcda110ac678bf9def5cf81e01:Docs
