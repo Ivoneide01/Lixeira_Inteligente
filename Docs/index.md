@@ -10,8 +10,15 @@ iv)      A documentação das interfaces, protocolos e módulos de comunicação
 
 v)       O projeto deve possuir comunicação/controle via internet (TCP/IP) e uso do Protocolo MQTT.
 
+<<<<<<< HEAD:Docs/index.md
 
 # Diagrama de casos de uso
 
 *&lt;Diagrama de casos de uso&gt;*
 ![descrição-dos-casos-de-uso](casosdeuso.jpeg)
+=======
+# Diagrama de casos de uso
+
+*&lt;Diagrama de casos de uso&gt;*
+![descrição-dos-casos-de-uso](casosdeuso.jpeg)
+>>>>>>> 60c2f3b4e5cd42dcda110ac678bf9def5cf81e01:Docs
