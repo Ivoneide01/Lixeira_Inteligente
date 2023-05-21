@@ -3,7 +3,7 @@
 i)         Uma breve descrição do funcionamento e uso para quem quiser reproduzir.
 
 Primeiro iremos conectar o sensor na saída 5 do Arduino. Assim como na imagem1 abaixo:
-![descrição-img](img1.jpeg)
+![descrição-img](/Docs/img/img1.jpeg)
 
 ii)       O software desenvolvido e a documentação de código.
 
