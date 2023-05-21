@@ -9,3 +9,9 @@ iii)      A descrição do hardware utilizado (plataformas de desenvolvimento, s
 iv)      A documentação das interfaces, protocolos e módulos de comunicação.
 
 v)       O projeto deve possuir comunicação/controle via internet (TCP/IP) e uso do Protocolo MQTT.
+
+
+# Diagrama de casos de uso
+
+*&lt;Diagrama de casos de uso&gt;*
+![descrição-dos-casos-de-uso](casosdeuso.jpeg)
