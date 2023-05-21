@@ -30,14 +30,14 @@ Adicionando Componentes no Hadware:
 Iremos adicionar os componentes Arduino e sensor ao lado da lixeira, de preferencia uma lixeria quadrada pois nossos componentes irá se adequar melhor.
 assim  como na imagem abaixo: 
 
-![descrição-img](/Docs/img/img7.jpeg)
+![descrição-img](/Docs/img/img7.jpg)
 
 neste imagem acima, foi colocado os componentes usando fitas para que os componentes fiquem seguro. 
 
 Na parte da tampa da lixeira, usamos um papelão para servir como tampa, pois nosso motor irá puxar ela para abrir e fechar. Segue a imagem abaixo: 
 
-![descrição-img](/Docs/img/img9.jpeg)
-![descrição-img](/Docs/img/img10.jpeg)
+![descrição-img](/Docs/img/img9.jpg)
+![descrição-img](/Docs/img/img10.jpg)
 
 
 Depois de ter feito esse processo iremos subir o nosso código que está neste repositório do GitHub na parte README.
@@ -46,7 +46,7 @@ Agora vamos conhecer um pouco de cada componente utilizado:
 
 Sensor de Ultrassom HC-SR04:
 
-![descrição-img](/Docs/img/sersor.jpeg)
+![descrição-img](/Docs/img/sensor.jpeg)
 
 O sensor de ultrassom HC-SR04 é posicionado estrategicamente próximo à abertura da lixeira, direcionado para a área onde os objetos seriam descartados.
 
