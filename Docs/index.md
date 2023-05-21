@@ -25,6 +25,23 @@ Vamos conectar a bateria , o positivo irá ligar no win e o negativo no primeiro
 
 ![descrição-img](/Docs/img/img6.jpeg)
 
+Adicionando Componentes no Hadware:
+
+Iremos adicionar os componentes Arduino e sensor ao lado da lixeira, de preferencia uma lixeria quadrada pois nossos componentes irá se adequar melhor.
+assim  como na imagem abaixo: 
+
+![descrição-img](/Docs/img/img7.jpeg)
+
+neste imagem acima, foi colocado os componentes usando fitas para que os componentes fiquem seguro. 
+
+Na parte da tampa da lixeira, usamos um papelão para servir como tampa, pois nosso motor irá puxar ela para abrir e fechar. Segue a imagem abaixo: 
+
+![descrição-img](/Docs/img/img9.jpeg)
+![descrição-img](/Docs/img/img10.jpeg)
+
+
+
+
 Depois de ter feito esse processo iremos subir o nosso código que está neste repositório do GitHub na parte README.
 
 
