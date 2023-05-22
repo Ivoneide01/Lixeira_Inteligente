@@ -7,7 +7,7 @@ Neste vídeo vamos montar um protótipo de uma lixeira que abre e fecha pela apr
 Na pasta "docs/index.md" se encontra passo a passo para fazer sua lixeira eletrica
 
 *******************
-Link com instruções em vídeo: //link do video
+# Link com instruções em vídeo: https://youtu.be/EqG5dgkhBnw
 *******************
 
 Lista de Dispositivos:
